@@ -8,7 +8,7 @@ const AppsData = () => {
             fetch("appsData.json")
             .then(res => res.json())
             .then(data => {
-                setAllAppsData(data)
+                console.log(data)
             })
         })
     
