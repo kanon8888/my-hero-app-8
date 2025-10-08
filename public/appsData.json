@@ -1,0 +1,662 @@
+[
+    {
+        "image": "https://i.ibb.co/Q8JcZwh/app1.png",
+        "title": "ChatEase",
+        "companyName": "SoftMind Inc.",
+        "id": 1,
+        "description": "An AI-powered chat assistant that helps you organize messages, summarize chats, and schedule meetings effortlessly.",
+        "size": 42,
+        "reviews": 34000,
+        "ratingAvg": 4.7,
+        "downloads": 5600000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400
+            },
+            {
+                "name": "2 star",
+                "count": 800
+            },
+            {
+                "name": "3 star",
+                "count": 2200
+            },
+            {
+                "name": "4 star",
+                "count": 9000
+            },
+            {
+                "name": "5 star",
+                "count": 21600
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/0Gy4w2B/app2.png",
+        "title": "FitTrack",
+        "companyName": "Healthify Labs",
+        "id": 2,
+        "description": "Your personal fitness and calorie tracking companion with AI meal suggestions.",
+        "size": 58,
+        "reviews": 19000,
+        "ratingAvg": 4.5,
+        "downloads": 4300000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1000
+            },
+            {
+                "name": "2 star",
+                "count": 2000
+            },
+            {
+                "name": "3 star",
+                "count": 5000
+            },
+            {
+                "name": "4 star",
+                "count": 4800
+            },
+            {
+                "name": "5 star",
+                "count": 6200
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/tZsrVWX/app3.png",
+        "title": "NoteWave",
+        "companyName": "CrestApps",
+        "id": 3,
+        "description": "Beautiful cloud-based note app with audio transcription and smart tags.",
+        "size": 39,
+        "reviews": 8700,
+        "ratingAvg": 4.3,
+        "downloads": 2100000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300
+            },
+            {
+                "name": "2 star",
+                "count": 600
+            },
+            {
+                "name": "3 star",
+                "count": 1200
+            },
+            {
+                "name": "4 star",
+                "count": 2500
+            },
+            {
+                "name": "5 star",
+                "count": 4100
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/f2JKXzV/app4.png",
+        "title": "MusicFlow",
+        "companyName": "TuneWorld",
+        "id": 4,
+        "description": "Stream and share music with personalized playlists powered by AI.",
+        "size": 95,
+        "reviews": 52000,
+        "ratingAvg": 4.8,
+        "downloads": 8700000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1200
+            },
+            {
+                "name": "2 star",
+                "count": 1500
+            },
+            {
+                "name": "3 star",
+                "count": 3000
+            },
+            {
+                "name": "4 star",
+                "count": 9000
+            },
+            {
+                "name": "5 star",
+                "count": 38300
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/whD0d5r/app5.png",
+        "title": "Travelio",
+        "companyName": "WanderTech",
+        "id": 5,
+        "description": "Explore and book flights, hotels, and adventures in one seamless travel app.",
+        "size": 80,
+        "reviews": 38000,
+        "ratingAvg": 4.6,
+        "downloads": 6700000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800
+            },
+            {
+                "name": "2 star",
+                "count": 1000
+            },
+            {
+                "name": "3 star",
+                "count": 4000
+            },
+            {
+                "name": "4 star",
+                "count": 9000
+            },
+            {
+                "name": "5 star",
+                "count": 23200
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/f11WDV9/app6.png",
+        "title": "FoodSnap",
+        "companyName": "TasteVision",
+        "id": 6,
+        "description": "Scan any dish and instantly get recipes, calories, and nutrition info.",
+        "size": 52,
+        "reviews": 15600,
+        "ratingAvg": 4.2,
+        "downloads": 3200000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 700
+            },
+            {
+                "name": "2 star",
+                "count": 900
+            },
+            {
+                "name": "3 star",
+                "count": 3100
+            },
+            {
+                "name": "4 star",
+                "count": 4500
+            },
+            {
+                "name": "5 star",
+                "count": 6400
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/dmDf9Dk/app7.png",
+        "title": "EduPro",
+        "companyName": "Learnify Systems",
+        "id": 7,
+        "description": "Interactive learning platform with live quizzes and AI tutors.",
+        "size": 77,
+        "reviews": 50000,
+        "ratingAvg": 4.9,
+        "downloads": 9500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600
+            },
+            {
+                "name": "2 star",
+                "count": 900
+            },
+            {
+                "name": "3 star",
+                "count": 2700
+            },
+            {
+                "name": "4 star",
+                "count": 10000
+            },
+            {
+                "name": "5 star",
+                "count": 35800
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/QN4RqM1/app8.png",
+        "title": "TaskMate",
+        "companyName": "Zenith Software",
+        "id": 8,
+        "description": "Manage projects and tasks efficiently with AI productivity tools.",
+        "size": 48,
+        "reviews": 27000,
+        "ratingAvg": 4.4,
+        "downloads": 5100000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 900
+            },
+            {
+                "name": "2 star",
+                "count": 1500
+            },
+            {
+                "name": "3 star",
+                "count": 2500
+            },
+            {
+                "name": "4 star",
+                "count": 6500
+            },
+            {
+                "name": "5 star",
+                "count": 15600
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/6XZ8gJ3/app9.png",
+        "title": "PhotoVerse",
+        "companyName": "Pixel Arts",
+        "id": 9,
+        "description": "Create stunning photo edits with AI filters and AR backgrounds.",
+        "size": 92,
+        "reviews": 47000,
+        "ratingAvg": 4.6,
+        "downloads": 8900000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1000
+            },
+            {
+                "name": "2 star",
+                "count": 1700
+            },
+            {
+                "name": "3 star",
+                "count": 4200
+            },
+            {
+                "name": "4 star",
+                "count": 9800
+            },
+            {
+                "name": "5 star",
+                "count": 30300
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/LC3HDzz/app10.png",
+        "title": "MindSpace",
+        "companyName": "PeaceWorks",
+        "id": 10,
+        "description": "Meditation and relaxation app with ambient soundscapes and mood tracking.",
+        "size": 64,
+        "reviews": 29000,
+        "ratingAvg": 4.8,
+        "downloads": 6200000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400
+            },
+            {
+                "name": "2 star",
+                "count": 800
+            },
+            {
+                "name": "3 star",
+                "count": 2000
+            },
+            {
+                "name": "4 star",
+                "count": 7400
+            },
+            {
+                "name": "5 star",
+                "count": 18400
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/JxWqGPR/app11.png",
+        "title": "NewsPilot",
+        "companyName": "InfoWave",
+        "id": 11,
+        "description": "Personalized news aggregator with AI summarization and speech reading.",
+        "size": 51,
+        "reviews": 23000,
+        "ratingAvg": 4.1,
+        "downloads": 3900000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 900
+            },
+            {
+                "name": "2 star",
+                "count": 1500
+            },
+            {
+                "name": "3 star",
+                "count": 5000
+            },
+            {
+                "name": "4 star",
+                "count": 6000
+            },
+            {
+                "name": "5 star",
+                "count": 10100
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/WGtJzJD/app12.png",
+        "title": "ShopEase",
+        "companyName": "Cartify Ltd.",
+        "id": 12,
+        "description": "Smart shopping assistant that finds the best deals and tracks your orders.",
+        "size": 73,
+        "reviews": 38000,
+        "ratingAvg": 4.6,
+        "downloads": 7800000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600
+            },
+            {
+                "name": "2 star",
+                "count": 1200
+            },
+            {
+                "name": "3 star",
+                "count": 3000
+            },
+            {
+                "name": "4 star",
+                "count": 8900
+            },
+            {
+                "name": "5 star",
+                "count": 24300
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/6DkCTPR/app13.png",
+        "title": "BudgetHero",
+        "companyName": "FinSmart",
+        "id": 13,
+        "description": "Track your spending, create budgets, and get smart savings insights.",
+        "size": 45,
+        "reviews": 26000,
+        "ratingAvg": 4.3,
+        "downloads": 4900000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 700
+            },
+            {
+                "name": "2 star",
+                "count": 1200
+            },
+            {
+                "name": "3 star",
+                "count": 3300
+            },
+            {
+                "name": "4 star",
+                "count": 8000
+            },
+            {
+                "name": "5 star",
+                "count": 12800
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/0BkXJ5W/app14.png",
+        "title": "GameZone",
+        "companyName": "PlayPro Studios",
+        "id": 14,
+        "description": "Discover trending mobile games, join tournaments, and track leaderboards.",
+        "size": 112,
+        "reviews": 67000,
+        "ratingAvg": 4.9,
+        "downloads": 12500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1400
+            },
+            {
+                "name": "2 star",
+                "count": 2200
+            },
+            {
+                "name": "3 star",
+                "count": 4000
+            },
+            {
+                "name": "4 star",
+                "count": 11000
+            },
+            {
+                "name": "5 star",
+                "count": 48400
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/fvMNvLc/app15.png",
+        "title": "WeatherNow",
+        "companyName": "SkyNetix",
+        "id": 15,
+        "description": "Accurate weather forecasts with real-time radar and AI storm alerts.",
+        "size": 37,
+        "reviews": 21000,
+        "ratingAvg": 4.4,
+        "downloads": 3800000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 700
+            },
+            {
+                "name": "2 star",
+                "count": 1200
+            },
+            {
+                "name": "3 star",
+                "count": 3200
+            },
+            {
+                "name": "4 star",
+                "count": 6000
+            },
+            {
+                "name": "5 star",
+                "count": 9900
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/hMV3pnZ/app16.png",
+        "title": "LangGuru",
+        "companyName": "EduVerse",
+        "id": 16,
+        "description": "Learn new languages with interactive lessons and AI pronunciation coach.",
+        "size": 84,
+        "reviews": 44000,
+        "ratingAvg": 4.7,
+        "downloads": 8300000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 900
+            },
+            {
+                "name": "2 star",
+                "count": 1500
+            },
+            {
+                "name": "3 star",
+                "count": 2800
+            },
+            {
+                "name": "4 star",
+                "count": 9500
+            },
+            {
+                "name": "5 star",
+                "count": 29200
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/MRtd6gn/app17.png",
+        "title": "MovieBox",
+        "companyName": "StreamLand",
+        "id": 17,
+        "description": "Stream latest movies and TV shows with AI recommendations.",
+        "size": 104,
+        "reviews": 56000,
+        "ratingAvg": 4.8,
+        "downloads": 9800000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1100
+            },
+            {
+                "name": "2 star",
+                "count": 1700
+            },
+            {
+                "name": "3 star",
+                "count": 4200
+            },
+            {
+                "name": "4 star",
+                "count": 10500
+            },
+            {
+                "name": "5 star",
+                "count": 38600
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/2cqTGmc/app18.png",
+        "title": "DocScan",
+        "companyName": "TechNova",
+        "id": 18,
+        "description": "AI-powered document scanner and PDF converter with cloud backup.",
+        "size": 33,
+        "reviews": 14500,
+        "ratingAvg": 4.3,
+        "downloads": 2700000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600
+            },
+            {
+                "name": "2 star",
+                "count": 800
+            },
+            {
+                "name": "3 star",
+                "count": 2000
+            },
+            {
+                "name": "4 star",
+                "count": 4100
+            },
+            {
+                "name": "5 star",
+                "count": 7000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/FxMFyks/app19.png",
+        "title": "RideOn",
+        "companyName": "GoFleet",
+        "id": 19,
+        "description": "Book rides, track drivers, and pay seamlessly with one tap.",
+        "size": 66,
+        "reviews": 50000,
+        "ratingAvg": 4.5,
+        "downloads": 7200000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1200
+            },
+            {
+                "name": "2 star",
+                "count": 1800
+            },
+            {
+                "name": "3 star",
+                "count": 4000
+            },
+            {
+                "name": "4 star",
+                "count": 9400
+            },
+            {
+                "name": "5 star",
+                "count": 33600
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/ZH6swbH/app20.png",
+        "title": "BookHive",
+        "companyName": "ReadersLab",
+        "id": 20,
+        "description": "Read, share, and review your favorite books with the global reader community.",
+        "size": 74,
+        "reviews": 26000,
+        "ratingAvg": 4.6,
+        "downloads": 5400000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 700
+            },
+            {
+                "name": "2 star",
+                "count": 1100
+            },
+            {
+                "name": "3 star",
+                "count": 2500
+            },
+            {
+                "name": "4 star",
+                "count": 7200
+            },
+            {
+                "name": "5 star",
+                "count": 14500
+            }
+        ]
+    }
+]

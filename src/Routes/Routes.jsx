@@ -1,8 +1,13 @@
+
+
+
+
 import React from 'react';
 import { createBrowserRouter } from "react-router";
 import Root from '../Pages/Root/Root';
 import ErrorPage from '../Pages/Root/ErrorPage/ErrorPage';
 import Home from '../Pages/Root/Home/Home';
+import AppsData from '../Pages/Root/AppsData/AppsData';
 
 export const router = createBrowserRouter([
     {
@@ -12,9 +17,11 @@ export const router = createBrowserRouter([
         children: [
             {
                 index: true,
-                path:"/",
+                
+                path: "/",
                 Component: Home
-            }
+            },
+           
         ]
     },
 ]);
