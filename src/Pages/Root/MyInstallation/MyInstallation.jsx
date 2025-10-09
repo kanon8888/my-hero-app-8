@@ -6,13 +6,13 @@
     const MyInstallation = () => {
         const [installedApps, setInstalledApps] = useState([]);
 
-        // LocalStorage থেকে Installed Apps লোড করা
+        
         useEffect(() => {
             const storedApps = JSON.parse(localStorage.getItem("installedApps")) || [];
             setInstalledApps(storedApps);
         }, []);
 
-        // Uninstall Function
+        
         const handleUninstall = (id) => {
             const updatedApps = installedApps.filter(app => app.id !== id);
             setInstalledApps(updatedApps);
@@ -24,7 +24,7 @@
             <div className="max-w-6xl mx-auto p-4 md:p-6">
                 <h1 className="text-3xl font-bold text-center mb-6">My Installed Apps</h1>
 
-                {/* যদি কোনো App install না থাকে */}
+                
                 {installedApps.length === 0 ? (
                     <p className="text-center text-gray-500">No apps installed yet.</p>
                 ) : (
@@ -34,7 +34,7 @@
                                 key={app.id}
                                 className="bg-white rounded-xl shadow p-4 flex flex-col md:flex-row items-start gap-4"
                             >
-                                {/* Left: Image */}
+                               
                                 <div className="md:w-1/4 flex-shrink-0">
                                     <img
                                         src={app.image}
@@ -43,7 +43,7 @@
                                     />
                                 </div>
 
-                                {/* Right: Details */}
+                                
                                 <div className="md:w-3/4 flex flex-col justify-between h-full">
                                     <div>
                                         <h3 className="text-xl font-semibold mb-2">{app.title}</h3>
@@ -56,7 +56,7 @@
                                         </div>
                                     </div>
 
-                                    {/* Uninstall Button */}
+                                    
                                     <div className="mt-4 md:mt-0 md:flex md:justify-end">
                                         <button
                                             onClick={() => handleUninstall(app.id)}
@@ -71,7 +71,7 @@
                     </div>
                 )}
 
-                {/* Toast Container */}
+                
                 <ToastContainer position="top-center" autoClose={2000} />
             </div>
         );

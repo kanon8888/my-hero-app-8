@@ -46,18 +46,7 @@ export const router = createBrowserRouter([
         element: <MyInstallation />
       }
 
-      // {
-      //   path:'installation',
-      //   loader:() => fetch('./appsData.json'),
-      //   element: <MyInstallation></MyInstallation>
-      // }
-
-
-      // {
-      //   path:'apps',
-      //   loader: () => fetch('./appsData.json'),
-      //   element:<AllApps></AllApps>
-      // }
+     
     ],
   },
 ]);
