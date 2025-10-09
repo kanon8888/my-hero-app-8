@@ -5,6 +5,9 @@ import ErrorPage from '../Pages/Root/ErrorPage/ErrorPage';
 import Home from '../Pages/Root/Home/Home';
 import AppsData from '../Pages/Root/AppsData/AppsData';
 import AppDetails from '../Pages/Root/AppDetails/AppDetails';
+import AllApps from '../Pages/Root/AllApps/AllApps';
+import MyInstallation from '../Pages/Root/MyInstallation/MyInstallation';
+
 
 export const router = createBrowserRouter([
   {
@@ -31,6 +34,30 @@ export const router = createBrowserRouter([
         },
         element: <AppDetails />,
       },
+      {
+        path: "all-apps",
+        loader: () => fetch('/appsData.json').then(res => res.json()),
+        element: <AllApps />
+      },
+
+      {
+        path: 'installation',
+        loader: () => fetch('/appsData.json').then(res => res.json()),
+        element: <MyInstallation />
+      }
+
+      // {
+      //   path:'installation',
+      //   loader:() => fetch('./appsData.json'),
+      //   element: <MyInstallation></MyInstallation>
+      // }
+
+
+      // {
+      //   path:'apps',
+      //   loader: () => fetch('./appsData.json'),
+      //   element:<AllApps></AllApps>
+      // }
     ],
   },
 ]);
