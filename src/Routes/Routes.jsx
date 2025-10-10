@@ -7,6 +7,7 @@ import AppsData from '../Pages/Root/AppsData/AppsData';
 import AppDetails from '../Pages/Root/AppDetails/AppDetails';
 import AllApps from '../Pages/Root/AllApps/AllApps';
 import MyInstallation from '../Pages/Root/MyInstallation/MyInstallation';
+import SearchError from '../Components/Headar/SearchError/SearchError';
 
 
 export const router = createBrowserRouter([
@@ -17,12 +18,12 @@ export const router = createBrowserRouter([
     children: [
       {
         index: true,
-        loader: () => fetch('./appsData.json'),
+        loader: () => fetch('/appsData.json'),
         element: <Home />,
       },
       {
         path: "appsData",
-        loader: () => fetch('./appsData.json'),
+        loader: () => fetch('/appsData.json'),
         element: <AppsData />,
       },
       {
@@ -44,9 +45,13 @@ export const router = createBrowserRouter([
         path: 'installation',
         loader: () => fetch('/appsData.json').then(res => res.json()),
         element: <MyInstallation />
+      },
+      {
+        path: "search-error",
+        element: <SearchError></SearchError>
       }
 
-     
+
     ],
   },
 ]);

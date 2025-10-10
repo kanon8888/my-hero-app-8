@@ -41,7 +41,7 @@ const Navbar = () => {
             <div className="navbar-end flex">
 
                 <a
-                    href="https://github.com/sohag8906/"
+                    href="https://github.com/dashboard"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white px-4 py-2 rounded hover:bg-blue-700 transition"
